@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/advicewithparameters/advicewithparameters.iml" filepath="$PROJECT_DIR$/advicewithparameters/advicewithparameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotations/annotations.iml" filepath="$PROJECT_DIR$/annotations/annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotationswithexception/annotationswithexception.iml" filepath="$PROJECT_DIR$/annotationswithexception/annotationswithexception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/declareparents/declareparents.iml" filepath="$PROJECT_DIR$/declareparents/declareparents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/executionorder/executionorder.iml" filepath="$PROJECT_DIR$/executionorder/executionorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/executiontimelogging/executiontimelogging.iml" filepath="$PROJECT_DIR$/executiontimelogging/executiontimelogging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/executiontimeloggingannotationconfig/executiontimeloggingannotationconfig.iml" filepath="$PROJECT_DIR$/executiontimeloggingannotationconfig/executiontimeloggingannotationconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/executiontimeloggingaspectj/executiontimeloggingaspectj.iml" filepath="$PROJECT_DIR$/executiontimeloggingaspectj/executiontimeloggingaspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/executiontimeloggingaspectjcglib/executiontimeloggingaspectjcglib.iml" filepath="$PROJECT_DIR$/executiontimeloggingaspectjcglib/executiontimeloggingaspectjcglib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/executiontimeloggingthrowsadvice/executiontimeloggingthrowsadvice.iml" filepath="$PROJECT_DIR$/executiontimeloggingthrowsadvice/executiontimeloggingthrowsadvice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/executiontimeloggingwithafterfinally/executiontimeloggingwithafterfinally.iml" filepath="$PROJECT_DIR$/executiontimeloggingwithafterfinally/executiontimeloggingwithafterfinally.iml" />
+      <module fileurl="file://$PROJECT_DIR$/executiontimeloggingwitharound/executiontimeloggingwitharound.iml" filepath="$PROJECT_DIR$/executiontimeloggingwitharound/executiontimeloggingwitharound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pointcutsextreme/pointcutsextreme.iml" filepath="$PROJECT_DIR$/pointcutsextreme/pointcutsextreme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-book-ch8.iml" filepath="$PROJECT_DIR$/spring-book-ch8.iml" />
+    </modules>
+  </component>
+</project>
